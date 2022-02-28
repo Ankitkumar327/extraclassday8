@@ -1,0 +1,24 @@
+Box Shadow, Text Shadow Transition and Transformation
+
+Box-Shadow and text-shadow accepts h-offset, v-offset, blur, spread-radius, color.
+
+when we provide value to v-offset, then it moves horizontally to the right side of screen.
+when we provide value to h-offset, then it moves vertically to downside of the screen.
+when we provide value to blur, then it provides a blur background behind the box.
+when we provide value to spread-radius, then it increase the height and width of background blur.
+when we provide value of color, then the background color will be the color which we have provided.
+
+Transition: Transition property, Transition duration, transition timing function, transition delay
+For adding multiple properties, we have to seperate them by commas.
+
+ease-> slow start and then fast and end slowly
+ease-in-> start slow
+ease-out-> end slow
+
+Transform: 
+
+
+"1.Create one box and apply b ox shadow properties and text shadow properties
+2.Create one box on hover it rotate 360deg
+3.Create one box it should move from its original position upto 500px
+4.Create one box it width should increase upto 400px and it should also have delay property"
